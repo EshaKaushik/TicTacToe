@@ -79,5 +79,4 @@ function replay(){
         turn.style.fontSize = "30px";
         turn.style.fontFamily="algerian";   
     }
-
 }
